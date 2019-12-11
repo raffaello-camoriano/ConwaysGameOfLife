@@ -1,6 +1,6 @@
-LIFE SIMULATOR, versione 1.3
+Conway's Game of Life Simulator
 ===========================
-2010
+- version 1.3, 2010
 
 Autori:
 -------
